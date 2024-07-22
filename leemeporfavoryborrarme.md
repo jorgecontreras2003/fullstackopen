@@ -1,1 +1,0 @@
-hola esto no sirve para nada, odio git y todas sus funciones que estan pesimas
